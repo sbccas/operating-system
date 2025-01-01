@@ -69,6 +69,6 @@ Expand your knowledge with additional resources:
 
 Contributions are welcome! Please follow our [contribution guidelines](README.md).  
 
-<img src="https://github.com/sbccas/operating-system-tutorials/blob/main/resources/Banner.png" alt="Image" width="Auto" height="Auto">  
+![0 OS-I Banners](https://github.com/user-attachments/assets/27ab4670-804a-42e9-8016-360a4de1f408)
 
 Happy learning, and we hope you find these resources helpful in mastering the subject of Operating Systems!  
