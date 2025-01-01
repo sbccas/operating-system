@@ -24,18 +24,18 @@ Welcome to the Operating System Tutorials repository! This is your go-to resourc
 
 Begin your journey into operating systems here:  
 
-- [Learn about Syllabus](1_Syllabus/204_OS_Syllabus.pdf)  
+- [Learn about Syllabus](1_Syllabus/203_Operating_System-I_2023-24.pdf)  
 - [Introduction to Operating Systems](1_Syllabus/intro_to_os.md)  
 
 ## Material Notes  
 
 Dive into detailed notes covering all key concepts:  
 
-- [UNIT-1: Introduction to Operating Systems](2_Notes/204_OS_Unit_1.pdf)  
-- [UNIT-2: Process Management](2_Notes/204_OS_Unit_2.pdf)  
-- [UNIT-3: Memory Management](2_Notes/204_OS_Unit_3.pdf)  
-- [UNIT-4: File Management](2_Notes/204_OS_Unit_4.pdf)  
-- [UNIT-5: I/O Management and Deadlocks](2_Notes/204_OS_Unit_5.pdf)  
+- [UNIT-1: Introduction to Operating Systems](2_Notes/Unit_1_Operating_System_Concepts.pdf)  
+- [UNIT-2: Introduction to File System and File Management](2_Notes/Unit_2_Introduction_to_file_system_and_file_management.pdf)  
+- [UNIT-3: Introduction of Linux](2_Notes/Unit_3_Introduction_of_Linux.pdf)  
+- [UNIT-4: Linux Administration](2_Notes/Unit_4_Linux_Administration.pdf)  
+- [UNIT-5: Device Management](2_Notes/Unit_5_Device_Management.pdf)  
 
 ## Illustrations & Examples  
 
