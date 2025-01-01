@@ -41,9 +41,9 @@ Dive into detailed notes covering all key concepts:
 
 Explore diagrams and examples to solidify your understanding:  
 
-- [Process State Transition Diagram](3_Illustrations/process_state.pdf)  
-- [Memory Allocation Techniques](3_Illustrations/memory_allocation.pdf)  
-- [Deadlock Detection](3_Illustrations/deadlock_detection.pdf)  
+- [Process State Transition Diagram](3_Programs/)  
+- [Memory Allocation Techniques](3_Programs/)  
+- [Deadlock Detection](3_Programs/)  
 
 ## Assignments  
 
@@ -56,7 +56,7 @@ Apply what you've learned through these assignments:
 
 Prepare for exams with these questions:  
 
-- [MCQs and Theory Questions](5_QuestionBank/204_OS_MCQs.pdf)  
+- [MCQs and Theory Questions](5_QuestionBank/)  
 
 ## eBooks  
 
